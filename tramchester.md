@@ -13,7 +13,7 @@ Adult, off-peak, city zone | £1.50
 Adult, peak, all zones | £3.00
 Adult, off-peak, all zones | £2.60
 Child | £1.20
-Family (2 adults, 2 children), all zones | £7.00
+Family (2 adults, 2 children), all zones | £5.00
 
 
 
